@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://YOGURTtS.github.io/</link>
+    <link>https://yogurtts.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Mar 2020 01:42:49 +0800</lastBuildDate>
     
-	<atom:link href="https://YOGURTtS.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yogurtts.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>个人简介</title>
-      <link>https://YOGURTtS.github.io/post/introduction/</link>
+      <link>https://yogurtts.github.io/post/introduction/</link>
       <pubDate>Sun, 15 Mar 2020 01:42:49 +0800</pubDate>
       
-      <guid>https://YOGURTtS.github.io/post/introduction/</guid>
+      <guid>https://yogurtts.github.io/post/introduction/</guid>
       <description>大家好，我是一名程序员，目前就职于B站。今后请多关照。</description>
     </item>
     
