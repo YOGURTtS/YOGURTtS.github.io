@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on 小小破站</title>
     <link>https://yogurtts.github.io/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on 小小破站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Mar 2020 01:42:49 +0800</lastBuildDate>
@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>个人简介</title>
+      <title>面码，找到你了</title>
       <link>https://yogurtts.github.io/post/introduction/</link>
       <pubDate>Sun, 15 Mar 2020 01:42:49 +0800</pubDate>
       
       <guid>https://yogurtts.github.io/post/introduction/</guid>
-      <description>大家好，我是一名程序员，目前就职于B站。今后请多关照。</description>
+      <description>大家好，我是一名iOS开发菜鸡，目前就职于B站。然后呢，这里会不定期记录一些技术文章，或者一些心路历程，今后请多指教~</description>
     </item>
     
   </channel>
